@@ -1,0 +1,419 @@
+html,
+body {
+  font-family: "Helvetica Neue", "Helvetica", "ヒラギノ角ゴ Pro W3",
+    "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", arial,
+    sans-serif;
+  color: #211922;
+  font-size: 12px;
+}
+
+.navbar{
+  background-color: #FF4000;
+}
+._0{
+  background-color: #FF4000;
+}
+._3x {
+  width: 100%;
+}
+
+._5f {
+  background-color: #fff;
+}
+._2n {
+  box-sizing: border-box;
+}
+
+._i {
+  -ms-flex-direction: column;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  flex-direction: column;
+}
+._2 {
+  display: flex;
+  -ms-flex-direction: row;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  flex-direction: row;
+}
+
+._3f {
+  -ms-flex: 1 1 auto;
+  -webkit-box-flex: 1;
+  flex: 1 1 auto;
+  min-height: 0;
+  min-width: 0;
+}
+
+._7w {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+._6p {
+  padding-bottom: 4px;
+  padding-top: 4px;
+}
+._h {
+  -ms-flex-direction: row;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  flex-direction: row;
+}
+
+._2w {
+  -ms-flex-align: center;
+  -webkit-box-align: center;
+  -ms-grid-row-align: center;
+  align-items: center;
+}
+._5c {
+  color: #bd081c;
+}
+
+._25 {
+  display: block;
+}
+._rt {
+  fill: currentColor;
+  stroke-width: 0;
+  vertical-align: middle;
+}
+._36 {
+  -ms-flex-pack: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+}
+
+._6q {
+  padding-left: 4px;
+  padding-right: 4px;
+}
+._54 {
+  border-radius: 50%;
+}
+
+a {
+  color: #717171;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+._2f {
+  position: relative;
+}
+
+._5i {
+  color: #b5b5b5;
+}
+
+._2m {
+  left: 0;
+}
+._2j {
+  top: 0;
+}
+._2h {
+  position: absolute;
+}
+._5h {
+  background-color: #efefef;
+}
+html:not([dir="rtl"]) ._sh {
+  text-align: left;
+}
+
+._5k {
+  color: #555;
+}
+._sa {
+  font-weight: 700;
+}
+._s7 {
+  line-height: 1.2;
+}
+._s6 {
+  letter-spacing: -0.4px;
+}
+._s5 {
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto Oxygen-Sans,
+    Ubuntu, Cantarell, â€œFira Sansâ€, â€œDroid Sansâ€, Helvetica Neue,
+    Helvetica, \\30d2\30e9\30ae\30ce\89d2\30b4 Pro W3, Hiragino Kaku Gothic Pro,
+    \\30e1\30a4\30ea\30aa, Meiryo, "\FF2D\FF33 \FF30\30B4\30B7\30C3\30AF", Arial,
+    sans-serif;
+}
+._s4 {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+._ta {
+  font-size: 16px;
+}
+._74 {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+._73 {
+  padding-bottom: 8px;
+  padding-top: 8px;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+._rv[alt] {
+  color: transparent;
+}
+
+img {
+  max-width: 100%;
+  width: auto\9;
+  height: auto;
+  vertical-align: middle;
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+}
+._29 {
+  overflow: hidden;
+}
+._rz {
+  will-change: transform;
+}
+.search{
+  background:rgba(255, 255, 255, 0.0);
+}
+.SearchBoxInput {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: transparent;
+    background:rgba(255, 255, 255, 0.5);
+  border: 0;
+  border-radius: 4px;
+  box-shadow: none;
+  box-sizing: border-box;
+  color: #555;
+  font-size: 16px;
+  font-weight: 600;
+  height: 100%;
+  line-height: 20px;
+  outline: none;
+  padding: 0 40px 0 52px;
+  width: 100%;
+}
+
+button,
+input {
+  line-height: normal;
+}
+button,
+input,
+select,
+textarea {
+  font-family: "Helvetica Neue", "Helvetica", "ヒラギノ角ゴ Pro W3",
+    "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", arial,
+    sans-serif;
+  font-size: 100%;
+  margin: 0;
+  vertical-align: middle;
+}
+
+._37 {
+  -ms-flex-pack: justify;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+}
+
+
+/** dropdown **/
+.menu {
+  font-weight: 700;
+  padding: 5px;
+}
+
+.panel,
+.dropdown .row {
+  padding: 12px 15px;
+  background-color: #f8f8f8;
+  color: #888888;
+  border-radius: 3px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-decoration: none;
+}
+
+.text { font-size: 16px; }
+.icon { font-size: 20px; }
+
+.panel :hover {
+  color: #6c6c6c;
+  cursor: pointer;
+}
+
+input#toggle { display: none; }
+input#toggle ~ .dropdown { display: block; }
+input#toggle:checked ~ .dropdown { display: none; }
+
+.dropdown { margin-top: 7px; }
+
+.dropdown .arrow {
+  width: 0;
+  height: 0;
+  border-left: 7px solid transparent;
+  border-right: 7px solid transparent;
+  border-bottom: 9px solid #f8f8f8;
+  margin-left: 20px;
+}
+
+.dropdown .row {
+  border-radius: 0;
+  box-shadow: none;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  text-align: left;
+}
+
+.dropdown .row:nth-child(2) { border-radius: 3px 3px 0 0; }
+.dropdown .row:last-child { border-radius: 0 0 3px 3px; }
+
+.dropdown:hover > .row { color: #bebebe; }
+
+.dropdown .row:hover {
+  background-color: #ebebeb;
+  color: #6c6c6c;
+}
+
+
+ .form-control{
+        margin-bottom: -20px;
+        height: 50px;
+      }
+      #description{
+        height: 100px;
+      }
+
+      .modal-content, .modal-dialog{
+        background-color: #ff4000;
+        border-radius: 10px;
+      }
+
+      .dropdown{
+        display: block;
+      }
+
+      .float-right {
+  float: right;
+}
+
+.fa {
+  font-size: .8em;
+  line-height: 22px !important;
+}
+
+dropdown {
+  display: inline-block;
+  margin-top: 200px;
+}
+
+dropdown label, dropdown ul li {
+  display: block;
+  width: 100px;
+  background: #ff4000;
+  padding: 15px 20px;
+}
+
+dropdown label:hover, dropdown ul li:hover {
+  background: #ff4000;
+  color: white;
+  cursor: pointer;
+}
+
+dropdown label {
+  color: #2C3E50;
+  border-left: 4px solid #ff4000;
+  border-radius: 0 5px 0 0;
+  position: relative;
+  z-index: 2;
+}
+
+dropdown input {
+  display: none;
+}
+
+dropdown input ~ ul {
+  position: relative;
+  visibility: hidden;
+  opacity: 0;
+  top: -20px;
+  z-index: 1;
+}
+
+dropdown input:checked + label {
+  background: #E74C3C;
+  color: white;
+}
+
+dropdown input:checked ~ ul {
+  visibility: visible;
+  opacity: 1;
+  top: 0;
+}
+
+dropdown ul li:nth-child(1) {
+  border-left: 4px solid #E74C3C;
+}
+dropdown ul li:nth-child(1) .fa {
+  color: #E74C3C;
+}
+dropdown ul li:nth-child(1):hover {
+  background: #E74C3C;
+  color: white;
+}
+dropdown ul li:nth-child(1):hover .fa {
+  color: white;
+}
+
+dropdown ul li:nth-child(2) {
+  border-left: 4px solid #0072B5;
+}
+dropdown ul li:nth-child(2) .fa {
+  color: #0072B5;
+}
+dropdown ul li:nth-child(2):hover {
+  background: #0072B5;
+  color: white;
+}
+dropdown ul li:nth-child(2):hover .fa {
+  color: white;
+}
+
+dropdown ul li:nth-child(3) {
+  border-left: 4px solid #2C3E50;
+}
+dropdown ul li:nth-child(3) .fa {
+  color: #2C3E50;
+}
+dropdown ul li:nth-child(3):hover {
+  background: #2C3E50;
+  color: white;
+}
+dropdown ul li:nth-child(3):hover .fa {
+  color: white;
+}
+
+.animate {
+  color: white;
+  -webkit-transition: all .3s;
+  -moz-transition: all .3s;
+  -ms-transition: all .3s;
+  -ms-transition: all .3s;
+  transition: all .3s;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  /* Chrome and Safari */
+  -moz-backface-visibility: hidden;
+  /* Firefox */
+  -ms-backface-visibility: hidden;
+  /* Internet Explorer */
+}

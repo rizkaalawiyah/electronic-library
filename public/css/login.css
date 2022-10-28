@@ -1,0 +1,35 @@
+DS.login{
+  margin-top: 70px;
+  margin-bottom: 100px;
+   background-attachment: fixed;
+     background-size: cover;
+}
+input.btn{
+  background-image: linear-gradient(273deg,#03469d, #0280cd, #76cde9, #b4dce4);
+}
+
+
+button{
+  width: 250px;
+  margin-bottom: 3px;
+}
+
+small, a{
+  margin: auto;
+}
+.btn-group{
+  width: 500px;
+}
+
+div.is{
+  margin: auto;
+}
+
+.form-control{
+  font-family: 'Lato', sans-serif;
+  font-size: 0.875em;
+  margin-bottom: -15px;
+  height: 50px;
+  padding: 0px 15px 0px 15px;
+}
+
