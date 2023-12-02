@@ -1,11 +1,11 @@
 # elibrary
 
-##Usecase <br>
+## Usecase <br>
 ![usecase](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/dca60ade-2ba8-405a-9c7c-2be56d5db949) <br>
-##Database <br>
+## Database <br>
 ![database](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/fa5baa58-3bd4-478e-9954-335f099b7be9)
 <br>
-##User Interface <br>
+## User Interface <br>
 ![1](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/24f14a35-afb4-41ee-a5b9-8261f601408b)
 ![2](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/f8f34b93-0389-4d60-a88e-1cad7873bad8)
 ![3](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/c4575054-771d-418f-abd6-73388a6aad4c)
