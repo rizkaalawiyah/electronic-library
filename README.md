@@ -1,18 +1,20 @@
 # elibrary
 
-#User Interface
-![usecase](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/dca60ade-2ba8-405a-9c7c-2be56d5db949)
+##Usecase <br>
+![usecase](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/dca60ade-2ba8-405a-9c7c-2be56d5db949) <br>
+##Database <br>
 ![database](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/fa5baa58-3bd4-478e-9954-335f099b7be9)
-
-![12](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/5deac0c3-8d06-4272-91ec-e6619ad91498)
-![11](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/15af7d3d-22da-4a1c-bdbb-16542a5d3a8e)
-![10](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/52ce6a20-ef52-4efd-b0b5-df6218d0da7b)
-![9](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/9baaf464-e303-46b7-a0f2-505ce54943cd)
-![8](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/4c872a05-9262-4026-91c5-6e264717bee7)
-![7](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/663c6cee-6a11-48ee-8976-eeaf55f4150d)
-![6](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/75f73e22-8a0a-4369-9c6b-7f1db8599570)
-![5](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/a26ff12c-5791-49c9-951b-67447fa100cc)
-![4](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/72ba190e-d662-4a7b-9f10-714b3e32ecfc)
-![3](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/9903e7c7-80c7-4cfb-9df5-3d14b25b50ea)
-![2](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/8fe61b93-0e2d-4113-b809-83cec56deec4)
-![1](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/72202393-a174-4ae3-bebd-7ee8794e6f6a)
+<br>
+##User Interface <br>
+![1](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/24f14a35-afb4-41ee-a5b9-8261f601408b)
+![2](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/f8f34b93-0389-4d60-a88e-1cad7873bad8)
+![3](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/c4575054-771d-418f-abd6-73388a6aad4c)
+![4](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/76a57acd-bfa3-41b8-bba1-33909b36e640)
+![5](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/1a9ad07a-e783-4f8d-8931-e3a41986d0a0)
+![6](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/ff28d459-b107-4053-8d53-0824796c7c94)
+![7](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/52a0dcae-5a58-4012-ab39-8f93a99aaceb)
+![8](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/9324d466-9650-4eba-87bd-9f6fa6b4742e)
+![9](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/5ef60cd7-58ef-4af5-a7c2-e4ae26f39489)
+![10](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/b10e9fdf-e123-4e68-ac36-12deddb020f2)
+![11](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/db88f545-62a9-4e8c-96d5-df037d0b1059)
+![12](https://github.com/rizkaalawiyah/electronic-library/assets/43191119/8de49853-aceb-4596-9a34-461562aa4de4)
